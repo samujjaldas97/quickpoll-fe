@@ -183,3 +183,32 @@ input[type="text"]:focus {
     margin-top: 15px;
     font-weight: 600;
 }
+
+
+/*
+========================================
+--- Responsive / Mobile Styles ---
+========================================
+*/
+@media (max-width: 768px) {
+    body {
+        padding: 0; /* Remove padding for edge-to-edge feel on mobile */
+    }
+
+    .app-container {
+        margin: 0;
+        border-radius: 0; /* Full-width container on mobile */
+        padding: 25px; /* Reduce padding on smaller screens */
+        min-height: 100vh;
+        box-shadow: none; /* No need for shadow if it's full screen */
+    }
+
+    h1 {
+        font-size: 2rem; /* Make the main title smaller */
+    }
+
+    .vote-option, .btn {
+        padding: 12px; /* Slightly reduce button padding */
+        font-size: 16px;
+    }
+}
