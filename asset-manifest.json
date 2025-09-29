@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quickpoll-fe/static/css/main.2c4e76f5.css",
+    "main.css": "/quickpoll-fe/static/css/main.2fb8d483.css",
     "main.js": "/quickpoll-fe/static/js/main.886e61cb.js",
     "static/js/453.944ecb42.chunk.js": "/quickpoll-fe/static/js/453.944ecb42.chunk.js",
     "index.html": "/quickpoll-fe/index.html",
-    "main.2c4e76f5.css.map": "/quickpoll-fe/static/css/main.2c4e76f5.css.map",
+    "main.2fb8d483.css.map": "/quickpoll-fe/static/css/main.2fb8d483.css.map",
     "main.886e61cb.js.map": "/quickpoll-fe/static/js/main.886e61cb.js.map",
     "453.944ecb42.chunk.js.map": "/quickpoll-fe/static/js/453.944ecb42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c4e76f5.css",
+    "static/css/main.2fb8d483.css",
     "static/js/main.886e61cb.js"
   ]
 }
